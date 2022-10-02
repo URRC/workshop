@@ -72,7 +72,7 @@ int main()
 
 	Cat z;
 	z.name = "Geff";
-	z.age = 6;
+	z.age = 5;
 	z.weight = 2;
 
 	z.introduction();
